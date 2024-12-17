@@ -4,6 +4,9 @@
  As taught by Brian Holt for Frontend Masters
 </p>
 
+<ul>
+    <li>[241217] lettuce begin</li>
+</ul>
 Learn computer science with Brian Holt!
 
 - [See the course website][site]
